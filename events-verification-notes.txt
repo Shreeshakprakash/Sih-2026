@@ -1,0 +1,2 @@
+Thermal Events verification notes — 2026-09-04
+The registry renders as a dense monitoring table on desktop with the requested Event ID, date/time, location, FRP, confidence, classification, priority, and status columns. Search, date range, classification, region, confidence, FRP, industrial proximity, quick filters, reset, pagination, and row-click profile interactions are wired. The mobile breakpoint switches to compact monitoring rows while keeping the filters usable. TypeScript and production build pass; desktop and mobile screenshots were captured successfully.

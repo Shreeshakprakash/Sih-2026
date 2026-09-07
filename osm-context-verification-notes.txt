@@ -1,0 +1,2 @@
+OSM Context Intelligence verification notes — 2026-09-05
+Added /osm-context with a six-stage contextual reasoning workflow, selected anomaly mock map, OSM-style context layers, proximity and land-use metrics, industrial context strength score, and analyst interpretation. Primary navigation includes the new route and remains visible at the standard desktop viewport after a breakpoint correction. TypeScript and production build pass; the desktop route screenshot is clean.

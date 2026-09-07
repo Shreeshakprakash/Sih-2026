@@ -1,0 +1,2 @@
+Classification Intelligence verification notes — 2026-09-05
+Added /classification with a transparent multi-source pipeline covering FIRMS data, OSM context, satellite evidence, and historical behavior; feature extraction; classification engine; and explainable result. Added selectable sample events, probability bars, evidence-strength bars, calibrated explanation copy, and explicit uncertainty language without chatbot behavior or claims of perfect accuracy. Desktop and mobile screenshots render cleanly; TypeScript and production build pass.

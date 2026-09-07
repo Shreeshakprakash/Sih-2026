@@ -1,0 +1,2 @@
+About / Methodology verification notes — 2026-09-05
+Replaced the About route with a judge-friendly methodology narrative covering the problem, NASA FIRMS/MODIS/VIIRS/OSM/satellite data sources, detection-to-GIS approach, spatial features, temporal features, explainable classification, and a seven-stage technical architecture diagram. Desktop and mobile screenshots render cleanly; TypeScript and production build pass.

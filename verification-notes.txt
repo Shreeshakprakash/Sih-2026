@@ -1,0 +1,6 @@
+Visual verification notes — 2026-09-04
+- Existing navigation, dark theme, sidebar, and typography remain intact.
+- Mission Control hero, orbital globe, live activity, stats, and pipeline sections render on the home route.
+- First desktop pass showed the hero title clipping at the desktop split.
+- Fixed by widening the hero copy column and reducing the display title scale; TypeScript check passes after the fix.
+- Remaining verification: final desktop screenshot and mobile screenshot after the layout adjustment.

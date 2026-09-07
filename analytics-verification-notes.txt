@@ -1,0 +1,2 @@
+Analytics verification notes — 2026-09-05
+The Analytics route now renders as a dark NASA/GIS analytical workspace with 24 Hours, 7 Days, 30 Days, and Custom range controls. All KPIs and chart datasets are derived from the selected range through memoized mock telemetry. Verified charts include thermal events over time, classification distribution, average FRP, confidence bands, event persistence, distance to industrial infrastructure, and a geographic density visualization. Desktop and mobile screenshots render cleanly; TypeScript and production build pass.
